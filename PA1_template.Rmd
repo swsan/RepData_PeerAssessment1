@@ -3,7 +3,7 @@ title: "Reproducible Research: Peer Assessment 1"
 output: 
   html_document:
     keep_md: true 
----
+--- 
 
 ``` {r library_load, echo=FALSE,results="hide"}
 library(dplyr)
